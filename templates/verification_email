@@ -1,0 +1,12 @@
+
+{% block plain %}
+
+Dear {{user}},
+
+Your Response Recorded.Thank You for Your Valuable Suggestion.We will Look into It.
+
+With regards,
+Realize Stuff Team
+
+{% endblock %}
+
